@@ -1,0 +1,4 @@
+releases
+========
+
+maven releases repository
